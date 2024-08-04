@@ -16,5 +16,4 @@
     <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/leadership-age.png" width="400"> 
     <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/ability-values.png" width="400">
     <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/pace-histogram.png" width="388">
-    <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/relation0fFreekick-Penalty.png" width="448"> 
 ---
