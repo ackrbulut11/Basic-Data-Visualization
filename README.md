@@ -13,7 +13,8 @@
 ---
 3. *I used Football Manager 2023 Dataset from [Kaggle](https://www.kaggle.com/datasets/platinum22/foot-ball-manager-2023-dataset). Firstly, some columns have been renamed. Then I analyzed and grouped some data (like u21 players, penalty takers, top players etc.). Later I tried to make some visualisations with the help of these data.*
 
+   
+    <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/pace-histogram.png" width="388">
     <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/leadership-age.png" width="400"> 
     <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/ability-values.png" width="400">
-    <img src="https://github.com/ackrbulut11/Basic-Data-Visualization/blob/main/football-manager/images/pace-histogram.png" width="388">
 ---
